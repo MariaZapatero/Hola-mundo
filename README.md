@@ -1,5 +1,5 @@
-# Hola-mundo
-Repositorio primero de prueba
+# Hola mundo
+Repositorio primero
 
 Autor: Maria Z.
 Fecha: 09/02/2022
