@@ -1,2 +1,5 @@
 # Hola-mundo
-Repositorio primero
+Repositorio primero de prueba
+
+Autor: Maria Z.
+Fecha: 09/02/2022
